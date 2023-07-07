@@ -1,0 +1,11 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center
+}
