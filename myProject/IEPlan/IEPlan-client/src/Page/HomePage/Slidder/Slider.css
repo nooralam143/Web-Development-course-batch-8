@@ -1,0 +1,33 @@
+.slide {
+  position: relative;
+  text-align: left;
+}
+
+.slider-content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 3px;
+  width: 50%; 
+}
+
+h2, p {
+  margin: 0;
+}
+
+.shop-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 3px 3px;
+  text-decoration: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.shop-button:hover {
+  background-color: #0056b3;
+}
